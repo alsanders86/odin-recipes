@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    text-align: center;
+}
+
+ul {
+    background-color: beige;
+}
+
+ol {
+    background-color: darkgray;
+}
+
+li {
+    color: white;
+    background-color: darkgreen;
+}
+
+ul li {
+    color: blue;
+}
+
+ol li {
+    color: red;
+}
+
+/* a {
+    color: inherit;
+} */
+
+.indexlink {
+    color: white;
+}
+
+div.image-section {
+    text-align: center;
+}
+
+.top-menu {
+    text-align: center;
+}
+
+.bottom-menu {
+    background-color:dimgray;
+    text-align: center
+}
+
+.bottom-menu > a {
+    color: white;
+}
